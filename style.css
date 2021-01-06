@@ -1,0 +1,190 @@
+body{
+margin:0px 25px ;
+background-color: rgb(209, 199, 199);
+}
+.menu{
+background-color: rgb(222, 226, 226);
+overflow: hidden;
+
+
+}
+.menu a{
+    text-decoration: none;
+    color: rgb(255, 255, 214);
+    font-size: 25px;
+    text-align: center;
+    margin: 20px;
+    float: right;
+    background-color: darkgray;
+}
+section{
+    overflow: hidden;
+   padding:0px 10px;
+    margin-bottom: 30px;
+}
+.frist-part{
+float: left;
+width: 40%;
+margin: 10;
+font-size: 30px;
+
+
+}
+a{
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 10px;
+    color: rgb(241, 230, 238);
+    background-color: indianred;
+}
+.frist-img{
+    float: right;
+    width: 40%;
+    
+}
+h1{
+    line-height: 80px;
+}
+span{
+    color: rgb(202, 78, 78);
+}
+
+.second-part{
+    float: right;
+width: 40%;
+margin: 20px;
+font-size: 30px;
+}
+.second-img{
+    float: left;
+    width: 40%;
+}
+
+.work p{
+    font-size: large;
+   
+}
+.work h1{
+     padding-bottom: 60px;
+     color: rgb(75, 45, 45);
+     font-size: 50px;
+     text-align: center;
+}
+.work span{
+    
+}
+.work{
+    margin: 120px;
+  
+    
+}
+.work h3{
+    font-size: 30px;
+    
+    margin-bottom: 50px;
+}
+.work img{
+    width: 200px;
+    
+}
+.gym{
+    padding: 40px;
+    margin-right: 50px;
+    margin-left: 40px;
+   float: left; 
+   width: 20%;
+   
+   background-color: floralwhite;
+   box-shadow: 3px 3px 15px;
+   border-radius: 5%;
+   
+}
+.tour{
+    padding: 40px;
+float: left;
+width: 20%;
+background-color: floralwhite;
+margin-right: 35px;
+box-shadow: 3px 3px 15px;
+border-radius: 5%
+}
+.music{ 
+    padding: 40px;
+float: left;
+width: 20%;
+background-color: floralwhite;
+box-shadow: 5px 3px 15px;
+margin-left: 25px;
+border-radius: 5%
+}
+.work-inc{
+    height: 250px;
+    width: 100%;
+    background-image: url(img/Group_33094_1.png);
+background-repeat: no-repeat;
+background-size:contain;
+overflow: hidden;
+
+
+}
+
+.sec-work{
+    margin: 250px;
+    
+}
+.work-inc h1{
+    font-size: 30px;
+    margin-top: 60px;
+    float: left;
+    overflow: hidden;
+    padding-left: 10px;
+}
+.work-inc button{
+   font-size: x-large;
+   border: none;
+   border-radius: 5px;
+   margin: 70px 30px;
+   
+   float: right;
+   padding: 10px;
+   background-color: rgb(173, 44, 104);
+  color: rgb(236, 230, 230);
+}
+.pro{
+    margin-top: 100px;
+    font-size: x-large;
+    font-weight: 800;
+    margin-left: 10%;
+}
+.pro h1{
+    text-align: center;
+    margin-bottom: 70px;
+    color: rgb(173, 44, 44);
+}
+progress{
+    display: block;
+    width: 70%;
+    height: 50px;
+    margin-top: 30px;
+}
+footer h2{
+    font-size: 50px;
+    color: rgb(83, 61, 53);
+text-align: center;
+
+
+}
+footer h1{
+    font-size: 80px;
+    color: rgb(92, 45, 28);
+text-align: center;
+
+
+}
+footer img{
+    
+    margin-left: 40px;
+}
+.footer-img{
+    margin-left: 400px;
+}
